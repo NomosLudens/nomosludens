@@ -5,15 +5,8 @@
       <stop offset="0%" stop-color="#eee8dd"/>
       <stop offset="100%" stop-color="#c9bdac"/>
     </radialGradient>
-    <filter id="grain">
-      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="7"/>
-      <feColorMatrix type="saturate" values="0"/>
-      <feComponentTransfer><feFuncA type="table" tableValues="0 0.12"/></feComponentTransfer>
-      <feBlend in="SourceGraphic" mode="multiply"/>
-    </filter>
   </defs>
-  <rect width="512" height="512" rx="80" fill="url(#bg)"/>
-  <rect width="512" height="512" rx="80" fill="transparent" filter="url(#grain)"/>
+  <rect width="512" height="512" rx="84" fill="url(#bg)"/>
   <g fill="none" stroke="#302c28" stroke-width="28" stroke-linecap="square" stroke-linejoin="miter">
     <path d="M256 112 L256 400"/>
     <path d="M180 118 L132 176 L172 236 L132 296 L180 394"/>
