@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero-stone-minimal.svg" alt="Nomos Ludens — Technology for human agency. Empower, not replace." width="100%" />
+  <img src="./assets/nomos-ludens-hero.jpg" alt="Nomos Ludens — Technology for human agency. Empower, not replace." width="100%" />
 </p>
 
 <div align="center">
