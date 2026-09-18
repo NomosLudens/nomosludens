@@ -55,7 +55,3 @@ It asks a narrower question:
 These projects differ in domain. The constraint is the same:
 
 > **Technology should increase agency before it increases dependence.**
-
----
-
-© 2026 Nomos Ludens
