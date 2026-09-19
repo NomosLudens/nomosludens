@@ -12,7 +12,7 @@
 
 Open tools for a more human internet.
 
-[Principles](./EMPOWER_NOT_REPLACE.md) · [Kuan](https://github.com/NomosLudens/kuan) · [OmniTreco](https://github.com/NomosLudens/omnitreco-repicable)
+[Principles](./EMPOWER_NOT_REPLACE.md) · [Kódice](https://github.com/NomosLudens/kodice) · [Book Composer](https://github.com/NomosLudens/book-composer) · [Kuan](https://github.com/NomosLudens/kuan) · [OmniTreco](https://github.com/NomosLudens/omnitreco-repicable)
 
 </div>
 
@@ -31,6 +31,30 @@ Systems may suggest.
 ---
 
 ## Featured work
+
+### Kódice
+
+**Law, reading and reproducible data without giving up local control.**
+
+Kódice combines a local-first EPUB/PDF/TXT reader with a reproducible Brazilian legal corpus, deterministic citation search, SQLite materialization and a public legal API.
+
+Personal books and notes stay on the user's device by default; the legal corpus can be rebuilt and audited from declared sources.
+
+[Explore Kódice →](https://github.com/NomosLudens/kodice) · [Live demo →](https://kodice.nomosludens.ia.br)
+
+---
+
+### Book Composer
+
+**Automate repetition. Preserve editorial judgment.**
+
+Book Composer is a local-first visual editor for structured book composition, geometric preflight and deterministic PDF generation.
+
+It was extracted from the real production of *KALLISTIS — Manual do Mundo*: the originating book remains a stress test, while the engine is deliberately project-independent.
+
+[Explore Book Composer →](https://github.com/NomosLudens/book-composer)
+
+---
 
 ### Kuan
 
