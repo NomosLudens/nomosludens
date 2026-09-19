@@ -10,9 +10,9 @@
 
 **Empower, not replace.**
 
-Open tools for a more human internet.
+Independent tools for a more human internet.
 
-[Principles](./EMPOWER_NOT_REPLACE.md) · [Kódice](https://github.com/NomosLudens/kodice) · [Book Composer](https://github.com/NomosLudens/book-composer) · [Kuan](https://github.com/NomosLudens/kuan) · [OmniTreco](https://github.com/NomosLudens/omnitreco-repicable)
+[Principles](./EMPOWER_NOT_REPLACE.md) · [Kódice](https://github.com/NomosLudens/kodice) · [Book Composer](https://github.com/NomosLudens/book-composer) · [Kuan](https://github.com/NomosLudens/kuan) · [OmniTreco](https://github.com/NomosLudens/omnitreco-repicable) · [Héstia](https://github.com/NomosLudens/hestia-replicable)
 
 </div>
 
@@ -75,6 +75,16 @@ A local-first, browser-first multi-tool that turns files, sensors and nearby dev
 > If the browser can do it, the server does not touch the file.
 
 [Explore OmniTreco →](https://github.com/NomosLudens/omnitreco-repicable)
+
+---
+
+### Héstia
+
+**Observe real systems without turning observability into unrestricted control.**
+
+Héstia is a console + station-agent architecture for Linux observability and bounded operational actions. It keeps unavailable state explicit and treats real host validation as stronger evidence than a green dashboard.
+
+[Explore Héstia →](https://github.com/NomosLudens/hestia-replicable)
 
 ---
 
