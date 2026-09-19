@@ -12,7 +12,7 @@
 
 Independent tools for a more human internet.
 
-[Principles](./EMPOWER_NOT_REPLACE.md) · [Kódice](https://github.com/NomosLudens/kodice) · [Book Composer](https://github.com/NomosLudens/book-composer) · [Kuan](https://github.com/NomosLudens/kuan) · [OmniTreco](https://github.com/NomosLudens/omnitreco-repicable) · [Héstia](https://github.com/NomosLudens/hestia-replicable)
+[Principles](./EMPOWER_NOT_REPLACE.md) · [Kódice](https://github.com/NomosLudens/kodice) · [Book Composer](https://github.com/NomosLudens/book-composer) · [Kuan](https://github.com/NomosLudens/kuan) · [OmniTreco](https://github.com/NomosLudens/omnitreco-replicable) · [Héstia](https://github.com/NomosLudens/hestia-replicable)
 
 </div>
 
@@ -74,7 +74,7 @@ A local-first, browser-first multi-tool that turns files, sensors and nearby dev
 
 > If the browser can do it, the server does not touch the file.
 
-[Explore OmniTreco →](https://github.com/NomosLudens/omnitreco-repicable)
+[Explore OmniTreco →](https://github.com/NomosLudens/omnitreco-replicable)
 
 ---
 
