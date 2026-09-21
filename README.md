@@ -88,6 +88,20 @@ Héstia is a console + station-agent architecture for Linux observability and bo
 
 ---
 
+## Research / Experimental Systems
+
+### Flynn
+
+**Persistent neuro-synthetic systems, documented without overstating the evidence.**
+
+Flynn is an archived experimental research project around a continuous loop of world → sensory transduction → LIF brain → descending readout → synthetic body → world.
+
+The repository preserves recovered code, causal traces, visual evidence and the isolated E01 replication kit. The original resident runtime is no longer available, and the archive explicitly distinguishes preserved evidence from claims that were never proven.
+
+[Explore Flynn →](https://github.com/NomosLudens/flynn) · [Replicability limits →](https://github.com/NomosLudens/flynn/blob/master/REPLICABILITY.md)
+
+---
+
 ## Principles in practice
 
 - **Human authority** — it should be clear who decides, approves, rejects and overrides.
@@ -103,7 +117,8 @@ Héstia is a console + station-agent architecture for Linux observability and bo
 
 Some public repositories are canonical products.  
 Some are sanitized or replicable distributions.  
-Some are public snapshots of larger private systems.
+Some are public snapshots of larger private systems.  
+Some are archived experimental research with explicitly bounded replicability.
 
 We make that distinction explicit because provenance and operational reality matter.
 
