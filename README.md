@@ -12,7 +12,7 @@
 
 Independent tools for a more human internet.
 
-[Principles](./EMPOWER_NOT_REPLACE.md) · [Kódice](https://github.com/NomosLudens/kodice) · [Book Composer](https://github.com/NomosLudens/book-composer) · [Kuan](https://github.com/NomosLudens/kuan) · [OmniTreco](https://github.com/NomosLudens/omnitreco-replicable) · [Héstia](https://github.com/NomosLudens/hestia-replicable)
+[Principles](./EMPOWER_NOT_REPLACE.md) · [Kódice](https://github.com/NomosLudens/kodice) · [Book Composer](https://github.com/NomosLudens/book-composer) · [Kuan](https://github.com/NomosLudens/kuan) · [Aether Studio](https://github.com/NomosLudens/aether-studio) · [OmniTreco](https://github.com/NomosLudens/omnitreco-replicable) · [Héstia](https://github.com/NomosLudens/hestia-replicable)
 
 </div>
 
@@ -63,6 +63,18 @@ It was extracted from the real production of *KALLISTIS — Manual do Mundo*: th
 Kuan supports commercial operations with AI-assisted automation while keeping final human authority explicit.
 
 [Explore Kuan →](https://github.com/NomosLudens/kuan)
+
+---
+
+### Aether Studio
+
+**A local engineering cockpit for visible, human-supervised AI work.**
+
+Aether brings technical conversation, Klio-inspired PromptForge, local SQLite persistence and optional Codex, Antigravity and OpenRig execution into one interface. It keeps delivery and task completion as separate claims, and requires the user to choose and confirm an executor.
+
+The project is experimental and runs on the developer's machine; provider integrations depend on locally installed tools and authentication.
+
+[Explore Aether Studio →](https://github.com/NomosLudens/aether-studio)
 
 ---
 
